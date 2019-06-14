@@ -1,4 +1,3 @@
 node{
-    echo "Test!"
-    echo ${pwd}
+    echo "Test!
 }
